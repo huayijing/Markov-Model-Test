@@ -1,5 +1,5 @@
 import numpy as np
-import quantecon as qe
+import Generate-discrete-random-variable as grv
 
 def mc_sample_path(P, init=0, sample_size=1000):
     # === make sure P is a NumPy array === #
